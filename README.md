@@ -1,7 +1,7 @@
 ## `【小包子独家优化】（IPV6大全版  6.6 内核【带DOCKER】`
 #### 🚩 源码拉取`coolsnowwolf` `Lienol` `immortalwrt` `x-wrt` `openwrt` 自行选择编译
 - 大灰狼编译库`X86-R2C-R2S-R4S-R5S-N1-小米MI`等多系列全部适配OTA自动升级
-- 默认IP地址：`192.168.2.1`
+- 默认IP地址：`192.168.123.2`
 - 账户：`root`   密码：`空`
  
 #### 🚩 点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/shidahuilang/openwrt/releases) 即可跳转到该设备固件下载页面
